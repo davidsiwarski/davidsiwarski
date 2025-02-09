@@ -1,16 +1,12 @@
 ## Professional
-🛠️❄️🔥HVACR Installer & Technician
+###  ❄️🔥 HVACR Installer & Technician
+
 ## Amateur 
 ### 🎨 Graphic Designer
-![Inkscape](Images/Inkscape.png) ![GIMP](Images/GIMP.png) ![FreeCAD](Images/FreeCAD.png) ![Blender](Images/Blender.png)
+![Inkscape](Images/1.svg) ![GIMP](Images/2.svg) 
 
 ### 💻 Software Developer
-![Rust](Images/Rust.png) ![Kotlin](Images/Kotlin.png) 
+![Rust](Images/3.svg) ![Kotlin](Images/4.svg) 
 
 ### ☁️ DevOps Engineer
-![Bash](Images/Bash.png) ![Docker](Images/Docker.png) ![Kubernetes](Images/Kubernetes.png) ![Python](Images/Python.png)
-
-## Formal Education 
-🧠 Neuroscience Major
-🍽️ Nutrition Science Minor
-🐊 University of Florida 2019
+![Bash](Images/5.svg) ![Docker](Images/6.svg) ![Kubernetes](Images/7.svg) ![Python](Images/8.svg)
